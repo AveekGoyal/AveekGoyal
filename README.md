@@ -57,7 +57,7 @@ Personalized financial advice platform with AI-powered chatbot and goal planning
 ### [CharacterForge.ai](https://github.com/AveekGoyal/character-forge)
 AI-powered game character generation platform with multiple art styles and customization options.
 - **Tech Stack:** Next.js 14, React 18, TailwindCSS, Framer Motion, Web3 Integration
-- [Live Demo](https://character-forge.vercel.app)
+- [Live Demo](https://character-forge-ai.vercel.app/)
 
 ### [Founder Insights](https://github.com/AveekGoyal/ice_breaker)
 AI agent that enriches and verifies founder information against Wikipedia data.
