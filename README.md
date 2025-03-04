@@ -44,6 +44,11 @@ I'm an 𝗔𝗜 enthusiast and a seasoned 𝗧𝗲𝗮𝗺 𝗠𝗮𝗻𝗮𝗴�
 
 ## 🌟 Featured Projects
 
+### [Fork Labs Website](https://github.com/AveekGoyal/fork-labs-website)
+Modern, responsive company website with AI-powered features and optimized performance.
+- **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Shadcn UI, Claude API
+- [Live Demo](https://fork-labs-website.vercel.app/)
+  
 ### [DSA GPT Tutor](https://github.com/AveekGoyal/dsa-gpt-tutor)
 AI-powered tutor for mastering Data Structures and Algorithms with step-by-step guidance.
 - **Tech Stack:** Next.js, React, MongoDB, Claude AI
