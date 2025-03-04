@@ -1,16 +1,78 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aveek Goyal!
 
-<!--
-**AveekGoyal/AveekGoyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AveekGoyal&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an **AI and Team Manager** who loves creating cool solutions that combine AI, software, and education. With over 6 years of experience leading diverse teams and delivering impactful projects, I specialize in:
+
+- 👨‍💼 **Team Leadership & Management**
+- 🤖 **AI Application Development**
+- 💻 **Full-Stack Web Development**
+- 📊 **Technical Content Creation**
+- ⛓️ **Web3 & Blockchain Education**
+
+## 🔭 What I'm Working On Now
+
+- 🤖 Creating AI-powered web applications
+- 🧠 Developing intelligent AI agents
+- 💬 Building RAG model chatbots
+- ⛓️ Working on Web3 courses and projects
+
+## 🛠️ My Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</div>
+
+## 🌟 Featured Projects
+
+### [CharacterForge.ai](https://github.com/AveekGoyal/character-forge)
+AI-powered game character generation platform with multiple art styles and customization options.
+- **Tech Stack:** Next.js 14, React 18, TailwindCSS, Framer Motion, Web3 Integration
+- [Live Demo](https://character-forge.vercel.app)
+
+### [DSA GPT Tutor](https://github.com/AveekGoyal/dsa-gpt-tutor)
+AI-powered tutor for mastering Data Structures and Algorithms with step-by-step guidance.
+- **Tech Stack:** Next.js, React, MongoDB, Claude AI
+- [Live Demo](https://dsa-tutor-gpt.vercel.app/)
+
+### [Finance GPT](https://github.com/AveekGoyal/gpt-powered-ai-finance-advisor)
+Personalized financial advice platform with AI-powered chatbot and goal planning.
+- **Tech Stack:** Next.js, React, MongoDB, OpenAI GPT-4
+- [Live Demo](https://gpt-powered-ai-finance-advisor.vercel.app/)
+
+### [Founder Insights](https://github.com/AveekGoyal/ice_breaker)
+AI agent that enriches and verifies founder information against Wikipedia data.
+- **Tech Stack:** Python, LangChain, Wikipedia API, BeautifulSoup4
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AveekGoyal&theme=radical" alt="GitHub Streak" />
+</div>
+
+## 🎓 Education & Experience
+
+- **Technical Content Engineer** at MetaSchool (2023-Present)
+- **Senior Manager** at PrepBytes (Acquired by CollegeDekho) (2020-2023)
+- **Technical Content Engineer** at PrepBytes (2018-2020)
+- **BTech in Computer Science & Engineering** from Meerut Institute of Technology
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aveek-goyal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aveekgoel2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@prepbytes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</div>
