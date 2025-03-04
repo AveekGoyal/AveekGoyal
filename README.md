@@ -1,4 +1,16 @@
 # 👋 Hi there, I'm Aveek Goyal!
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Aveek+Goyal!;%F0%9D%97%94%F0%9D%97%9C+enthusiast+and+a+seasoned+%F0%9D%97%A7%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BA+%F0%9D%97%A0%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%B2%F0%9D%97%BF" alt="Typing SVG" />
+  </a>
+  <br/>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/AI-00B2FF?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+  </p>
+</div>
 
 ## 🚀 About Me
 
