@@ -1,13 +1,8 @@
 # 👋 Hi there, I'm Aveek Goyal!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AveekGoyal&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
 ## 🚀 About Me
 
-I'm an **AI and Team Manager** who loves creating cool solutions that combine AI, software, and education. With over 6 years of experience leading diverse teams and delivering impactful projects, I specialize in:
-
+I'm an 𝗔𝗜 enthusiast and a seasoned 𝗧𝗲𝗮𝗺 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 who loves creating cool solutions that combine AI, software, and education. I've spent over 6 years leading diverse teams and delivering projects that make a real difference.
 - 👨‍💼 **Team Leadership & Management**
 - 🤖 **AI Application Development**
 - 💻 **Full-Stack Web Development**
@@ -37,11 +32,6 @@ I'm an **AI and Team Manager** who loves creating cool solutions that combine AI
 
 ## 🌟 Featured Projects
 
-### [CharacterForge.ai](https://github.com/AveekGoyal/character-forge)
-AI-powered game character generation platform with multiple art styles and customization options.
-- **Tech Stack:** Next.js 14, React 18, TailwindCSS, Framer Motion, Web3 Integration
-- [Live Demo](https://character-forge.vercel.app)
-
 ### [DSA GPT Tutor](https://github.com/AveekGoyal/dsa-gpt-tutor)
 AI-powered tutor for mastering Data Structures and Algorithms with step-by-step guidance.
 - **Tech Stack:** Next.js, React, MongoDB, Claude AI
@@ -52,15 +42,19 @@ Personalized financial advice platform with AI-powered chatbot and goal planning
 - **Tech Stack:** Next.js, React, MongoDB, OpenAI GPT-4
 - [Live Demo](https://gpt-powered-ai-finance-advisor.vercel.app/)
 
+### [CharacterForge.ai](https://github.com/AveekGoyal/character-forge)
+AI-powered game character generation platform with multiple art styles and customization options.
+- **Tech Stack:** Next.js 14, React 18, TailwindCSS, Framer Motion, Web3 Integration
+- [Live Demo](https://character-forge.vercel.app)
+
 ### [Founder Insights](https://github.com/AveekGoyal/ice_breaker)
 AI agent that enriches and verifies founder information against Wikipedia data.
 - **Tech Stack:** Python, LangChain, Wikipedia API, BeautifulSoup4
 
 ## 📈 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AveekGoyal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AveekGoyal&theme=radical" alt="GitHub Streak" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=AveekGoyal&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🎓 Education & Experience
 
@@ -74,5 +68,6 @@ AI agent that enriches and verifies founder information against Wikipedia data.
 <div align="center">
   <a href="https://www.linkedin.com/in/aveek-goyal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aveekgoel2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@prepbytes"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</div>
+  </div>
+
+
