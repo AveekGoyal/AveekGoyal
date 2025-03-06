@@ -68,6 +68,10 @@ AI-powered game character generation platform with multiple art styles and custo
 AI agent that enriches and verifies founder information against Wikipedia data.
 - **Tech Stack:** Python, LangChain, Wikipedia API, BeautifulSoup4
 
+### [Email Agent CLI](https://github.com/AveekGoyal/email-agent-cli)
+AI-powered email analysis system with Email analyses in general and analysis of Upwork emails for job market insights and portfolio project generator.
+- **Tech Stack:** TypeScript, Node.js, LangChain, Gmail API, Anthropic Claude 3.7 Sonnet, Tailwind CSS
+
 ## 📈 GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AveekGoyal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
