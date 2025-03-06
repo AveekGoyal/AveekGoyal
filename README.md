@@ -16,9 +16,9 @@
 
 I'm an 𝗔𝗜 enthusiast and a seasoned 𝗧𝗲𝗮𝗺 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 who loves creating cool solutions that combine AI, software, and education. I've spent over 6 years leading diverse teams and delivering projects that make a real difference.
 - 👨‍💼 **Team Leadership & Management**
+- 📊 **DSA (C, C++, Java, Python) Technical Content Creation**
 - 🤖 **AI Application Development**
 - 💻 **Full-Stack Web Development**
-- 📊 **Technical Content Creation**
 - ⛓️ **Web3 & Blockchain Education**
 
 ## 🔭 What I'm Working On Now
