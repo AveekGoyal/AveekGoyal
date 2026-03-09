@@ -78,11 +78,6 @@ AI agent that enriches and verifies founder information against Wikipedia data.
 AI-powered email analysis system for extracting job market insights and generating portfolio projects.
 - **Tech Stack:** TypeScript, Node.js, LangChain, Gmail API, Anthropic Claude 3.7 Sonnet
 
-## 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AveekGoyal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AveekGoyal&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🎓 Education & Experience
 
 - **Founding Lead Engineer** at WoodenScale AI (2025-Present)
