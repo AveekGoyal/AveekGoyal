@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Aveek Goyal!
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Aveek+Goyal!;Full-Stack+AI+Developer+%26+Engineering+Lead" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Aveek+Goyal!;AI+Developer+%26+Engineering+Lead;Building+Autonomous+AI+Agents" alt="Typing SVG" />
   </a>
   <br/>
   <p align="center">
@@ -15,9 +14,9 @@
 
 ## 🚀 About Me
 
-I'm a **Full-Stack AI Developer & Engineering Lead** with over 7.5 years of experience building scalable applications from scratch. My current focus is architecting 0-to-1 GenAI platforms, building autonomous LLM agents, and designing robust API backends. I love turning complex AI concepts into production-ready software that solves real business problems.
+I'm an **AI Developer & Engineering Lead** with over 7.5 years of experience building scalable applications from scratch. My current focus is architecting 0-to-1 GenAI platforms, building autonomous LLM agents, and designing robust API backends. I love turning complex AI concepts into production-ready software that solves real business problems.
 
-- 🧠 **AI / LLM Engineering:** LangChain, RAG Pipelines, Autonomous Agents, Prompt Engineering
+- 🧠 **AI / LLM Engineering:** LangChain, LangGraph, RAG Pipelines, Autonomous Agents, Prompt Engineering
 - ⚙️ **Backend Architecture:** Python, FastAPI, Node.js, AWS infrastructure
 - 💻 **Frontend Development:** Next.js, React, Tailwind CSS
 - 👨‍💻 **Engineering Leadership:** Agile sprint workflows, system design, CI/CD automation
@@ -45,10 +44,23 @@ I'm a **Full-Stack AI Developer & Engineering Lead** with over 7.5 years of expe
 
 ## 🌟 Featured Projects
 
+### [Nexus Flow AI](https://github.com/AveekGoyal/nexusflowai)
+AI agent orchestration platform — build multi-agent workflows visually, run them from a chat interface, and connect to Telegram. Runs entirely on your machine with one command.
+- **Tech Stack:** Python, FastAPI, LangGraph, Next.js, PostgreSQL, ChromaDB, LiteLLM
+- **Highlights:** Parallel fan-out execution, SSE streaming, RAG per-agent knowledge bases, Fernet-encrypted API key storage
+- [▶ Watch Demo](https://youtu.be/fM9E5PYBBK0)
+
+### [NestIQ Search](https://github.com/AveekGoyal/nestiq-search)
+AI-powered home décor search — natural language queries like "modern sofa under ₹15,000" are translated into precise SQL filters. LLM is used only as a query interpreter; all retrieval is deterministic.
+- **Tech Stack:** Next.js 15, TypeScript, PostgreSQL (Supabase), Prisma ORM, OpenRouter (Gemini 2.5 Flash)
+- **Highlights:** AI query cache (zero repeat LLM calls), three distinct search paths, URL-serialised filter state
+- [Live Demo](https://nestiq-search.vercel.app/)
+
 ### [WoodenScale AI](https://www.woodenscale.ai)
 0-to-1 GenAI SaaS platform facilitating investor matching and pitch deck generation.
 - **Tech Stack:** Python, FastAPI, LangChain, Next.js, AWS
 - **Role:** Founding Lead Engineer
+- [Live Site](https://www.woodenscale.ai/)
 
 ### [Fork Labs Website](https://github.com/AveekGoyal/fork-labs-website)
 Modern, responsive company website with AI-powered features and optimized performance.
